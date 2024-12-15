@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-agents-showcase/static/css/main.e6c13ad2.css",
+    "main.js": "/ai-agents-showcase/static/js/main.ceabe962.js",
+    "static/js/488.3f1f40a7.chunk.js": "/ai-agents-showcase/static/js/488.3f1f40a7.chunk.js",
+    "index.html": "/ai-agents-showcase/index.html",
+    "main.e6c13ad2.css.map": "/ai-agents-showcase/static/css/main.e6c13ad2.css.map",
+    "main.ceabe962.js.map": "/ai-agents-showcase/static/js/main.ceabe962.js.map",
+    "488.3f1f40a7.chunk.js.map": "/ai-agents-showcase/static/js/488.3f1f40a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ceabe962.js"
+  ]
+}
